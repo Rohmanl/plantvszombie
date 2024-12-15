@@ -1,7 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "PlantVsZombies.class",
-        "Main.class"
-    ],
-    "java.debug.settings.onBuildFailureProceed": true
-}
